@@ -2,4 +2,4 @@ node_modules
 .env
 mongo-data
 Docker volumes
-npm-debug.log
+npm-debug.lo
