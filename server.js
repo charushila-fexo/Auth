@@ -10,7 +10,6 @@ const server = http.createServer((req, res) => {
     // Set headers
     res.setHeader('Content-Type', 'application/json');
 
-    // Simple logging
     console.log(`${req.method} ${req.url}`);
 
     // CORS (Optional but good for testing)
